@@ -13,8 +13,8 @@ call :check
 set file_md5="6226c961bf09934459c22c3b86e4084c"
 set file_name="Blender_2.7_Skin.XML"
 call :check
-set file_md5="60dbb0ac670978781a9ae9d6dafb1186"
-set file_name="Blender_3.0.BAT"
+set file_md5="6d1a3cae41c25daffecbd11793b1cc08"
+set file_name="Blender_2.93.MSI"
 call :check
 set file_md5="9285e4d283c20f15b01e2a3c2d9825b0"
 set file_name="JDK18.MSI"
@@ -25,8 +25,8 @@ call :check
 set file_md5="c27b2a986d1e5a84b4fafc5d89b21cfa"
 set file_name="OriginalSmashHit.APK"
 call :check
-set file_md5="a2e49b4aded34e373ddaff37027e1c9a"
-set file_name="Shatter_Addon_Improved_@2023.12.14.mod.12.20.ZIP"
+set file_md5="e7895372dd2725c888e47517ae0118f8"
+set file_name="Shatter_Addon_Improved_@2023.12.21.mod.12.22.ZIP"
 call :check
 set file_md5="975747975401c8fd844291990b9f1ab7"
 set file_name="ShatterClient.APK"
