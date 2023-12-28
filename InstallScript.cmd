@@ -25,8 +25,8 @@ call :check
 set file_md5="c27b2a986d1e5a84b4fafc5d89b21cfa"
 set file_name="OriginalSmashHit.APK"
 call :check
-set file_md5="7d613364c2f5830f793759334f765bd7"
-set file_name="Shatter_Addon_Improved_@2023.12.21.mod.12.22.ZIP"
+set file_md5="110c2cd3bcc2940692173b6c99acc7b0"
+set file_name="Shatter_Addon_Improved_@2023.12.27.mod.12.28.ZIP"
 call :check
 set file_md5="975747975401c8fd844291990b9f1ab7"
 set file_name="ShatterClient.APK"
