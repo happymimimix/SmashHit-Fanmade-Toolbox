@@ -13,11 +13,14 @@ call :check
 set file_md5="6226c961bf09934459c22c3b86e4084c"
 set file_name="Blender_2.7_Skin.XML"
 call :check
-set file_md5="6d1a3cae41c25daffecbd11793b1cc08"
-set file_name="Blender_2.93.MSI"
+set file_md5="540f68ccd3891bce15d207a0a0fe9070"
+set file_name="Blender_3.3.14.MSI"
 call :check
-set file_md5="9285e4d283c20f15b01e2a3c2d9825b0"
-set file_name="JDK18.MSI"
+set file_md5="c8b58f7d46db8e88110afd7b68c0b8c9"
+set file_name="CAD_Skecther_Addon.ZIP"
+call :check
+set file_md5="4bc4af2efd3bb4ba8924bdf234be1b3b"
+set file_name="Java8_Runtime.MSI"
 call :check
 set file_md5="a4ebe1471c16bf35102a8ea5a756cdfc"
 set file_name="MTXCONV.EXE"
@@ -25,11 +28,14 @@ call :check
 set file_md5="c27b2a986d1e5a84b4fafc5d89b21cfa"
 set file_name="OriginalSmashHit.APK"
 call :check
-set file_md5="2dbfa7f90e817eff0c3241ddbd898775"
-set file_name="Shatter_Addon_Improved_@2023.12.27.mod.12.28.ZIP"
+set file_md5="f93e9dfe005ba2efa43d8a6757a177af"
+set file_name="Shatter_Addon_Improved_@2024.3.4.mod.3.10.ZIP"
 call :check
-set file_md5="975747975401c8fd844291990b9f1ab7"
+set file_md5="19e9d3729e6b35253af7761d54f151d9"
 set file_name="ShatterClient.APK"
+call :check
+set file_md5="415b9a7b711bca7eb5987f4baf69e88c"
+set file_name="Voxelator_Addon.ZIP"
 call :check
 goto end
 :check
